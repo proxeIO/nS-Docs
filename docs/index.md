@@ -1,6 +1,6 @@
 # What is Name Stack?
 
-Name Stack is a tool designed around workflow assist and batch name.
+Name Stack is a tool designed around batch naming, scene management and workflow assistance.
 
 # A Little History
 
