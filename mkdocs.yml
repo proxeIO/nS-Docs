@@ -4,28 +4,5 @@ theme: readthedocs
 
 pages:
   - About Name Stack: index.md
-
-  # - Getting Started:
-    # - Installation: install.md
-    # - Preferences: preference.md
-    # - Hotkeys: hotkeys.md
-    # - Interface: interface.md
-
-  # - Questions And Answers:
-    # - FAQ: faq.md
-    # - Troubleshooting: troubleshooting.md
-
-  # - Tips & Tricks: tips.md
-
-  # - Releases:
-    # - 1.00: 1.00.html
-    # - 1.01: 1.01.html
-    # - 1.02: 1.02.html
-
-# Extensions
-markdown_extensions:
-    - admonition
-    - footnotes
-theme: readthedocs
-extra_css:
-    - css/extra.css
+  - Documentation: docs.md
+  - Releases: releases.md
