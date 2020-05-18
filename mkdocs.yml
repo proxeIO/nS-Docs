@@ -5,4 +5,5 @@ theme: readthedocs
 pages:
   - About Name Stack: index.md
   - Documentation: docs.md
-  - Releases: releases.md
+  - Issue: issue.md
+  - Release: release.md
