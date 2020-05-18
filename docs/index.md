@@ -11,3 +11,6 @@ Several rewrites and years later I had mostly accomplished the things I wanted o
 So with the limitations in mind, and after acquiring much experience by working on many other noteworthy addons, I was ready to design Name Stack into the form it carries today, ready to be expanded on to my hearts content, in such a way as to remain stable and not become unruly.
 
 I am proud of the fact that Name Stack as my first addon is still alive and well today, it can be tough to accomplish as much when the world can be so unpredictable, I intend to keep the tool alive and well for years to come.
+
+
+# Community
